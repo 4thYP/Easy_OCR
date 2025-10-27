@@ -1,0 +1,49 @@
+EASYOCR ACCURACY ANALYSIS REPORT
+============================================================
+
+CHARACTER-LEVEL METRICS:
+----------------------------------------
+Page 1: Error Rate = 100.00%, Accuracy = 0.00%
+
+WORD-LEVEL METRICS (WER):
+----------------------------------------
+Page 1: WER = 0.00%, Errors: 0 (S:0, D:0, I:0)
+
+BLEU SCORES:
+----------------------------------------
+Page 1: BLEU = 0.00%
+
+ROUGE SCORES:
+----------------------------------------
+Page 1: ROUGE-1 = 0.00%, ROUGE-2 = 0.00%, ROUGE-L = 0.00%
+
+BERTSCORES:
+----------------------------------------
+Page 1: BERTScore = 0.00%
+
+OVERALL RESULTS:
+----------------------------------------
+Character Error Rate = 100.00%
+Word Error Rate (WER) = 0.00%
+BLEU Score = 0.00%
+ROUGE-1 = 0.00%
+ROUGE-2 = 0.00%
+ROUGE-L = 0.00%
+BERTScore = 0.00%
+Total Errors: 0 words (S:0, D:0, I:0)
+Total words in reference: 0
+Matched Characters: 0 / 412
+
+WORD-LEVEL DIFFERENCES
+============================================================
+
+--- Page 1 Differences ---
+WER: 0.00%, Errors: 0
+[INS: tour4 luey ay aaturs jollla_ lekt wl9 duppo o laer uajon 4 a lobolr 1 mp 3 0 llalys lj4 dowy le_ tool gx ffl mqboljiol h . fool lie pth 6 tuo4 0? lalxus mt , oppcnrd he _ go004tet ;4 wliols bvourkl lfe iepo 9 uo exo_cs _ lley jeoulal nol 4ouj pu 1 forunud lenilaop he b2lojqo hok 1 ls_ houlae_of lorolb sloulak be asuoled ollol huo lonrlr -uollela 4ot tale_ ad 0s 4 wlic ljolulo apnras (o k pvof lpp d out name:]
+
+CHARACTER-LEVEL DIFFERENCES
+============================================================
+
+--- Page 1 Character Differences ---
+[OCR: tour4 luey ay aaturs jollla_ lekt wl9 duppo o laer uajon 4 a lobolr 1 mp 3 0 llalys  lj4 dowy le_ tool gx ffl mqboljiol h . fool lie pth 6 tuo4 0? lalxus mt , oppcnrd he _ go004tet ;4 wliols bvourkl lfe iepo 9 uo exo_cs _ lley jeoulal nol 4ouj pu 1 forunud lenilaop he b2lojqo hok 1 ls_ houlae_of lorolb sloulak be asuoled ollol huo lonrlr -uollela 4ot tale_ ad 0s 4 wlic ljolulo apnras (o k pvof lpp d out name: -> MISSING]
+
