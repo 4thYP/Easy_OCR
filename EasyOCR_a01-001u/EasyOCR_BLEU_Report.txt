@@ -1,0 +1,7 @@
+OCR ACCURACY ANALYSIS REPORT (BLEU, EasyOCR)
+============================================================
+[config] BLEU max n-gram: 4, smoothing: True
+
+Page 1: BLEU = 2.71%  (Error=97.29%)  BP=1.000  [p1=7.5%, p2=1.9%, p3=1.9%, p4=2.0%]  (hyp=53, ref=50)
+
+Overall: BLEU = 2.71%  (Error=97.29%)  BP=1.000  [p1=7.5%, p2=1.9%, p3=1.9%, p4=2.0%]  (hyp=53, ref=50)

@@ -1,0 +1,12 @@
+OCR ACCURACY ANALYSIS REPORT (CER, EasyOCR)
+============================================================
+[config] CER includes spaces? False
+Page 1: CER = 60.19%  (S=100, D=19, I=5, N=206)
+
+Overall: CER = 60.19%  (S=100, D=19, I=5, N=206)
+
+DETAILED CHARACTER-LEVEL DIFFERENCES
+============================================================
+
+--- Page 1 Differences ---
+[MISSING:a]move[MISSING:t][OCR:j -> GT:o][OCR:0 -> GT:s][OCR:3 -> GT:t]o[OCR:8 -> GT:p][OCR:a -> GT:m]r[OCR:_ -> GT:.]g[MISSING:a]i[MISSING:t][OCR:b -> GT:s][OCR:b -> GT:k]e[MISSING:l]lf[OCR:v -> GT:r][OCR:e -> GT:o][OCR:n -> GT:m][OCR:w -> GT:n]o[OCR:w -> GT:m]ina[OCR:l -> GT:t][OCR:; -> GT:i]n[OCR:3 -> GT:g]a[MISSING:n][MISSING:y][OCR:l -> GT:m]o[OCR:n -> GT:r]e[EXTRA OCR:_]lab[OCR:a -> GT:o]url[MISSING:i]fe[OCR:_ -> GT:p][OCR:p -> GT:e]er[OCR:) -> GT:s][OCR:l -> GT:i][OCR:o -> GT:s][OCR:( -> GT:t]o[OCR:_ -> GT:b][OCR:l -> GT:e][OCR:u -> GT:m]ad[EXTRA OCR:r][OCR:_ -> GT:e]at[MISSING:a]me[OCR:o -> GT:e][OCR:h -> GT:t]i[MISSING:n][OCR:a -> GT:g][OCR:a -> GT:o][OCR:k -> GT:f]lab[OCR:c -> GT:o]u[OCR:v -> GT:r]m[MISSING:p][OCR:? -> GT:s][OCR:d -> GT:t]o[OCR:n -> GT:m]orro[MISSING:w][OCR:l -> GT:.][OCR:a -> GT:m]r[MISSING:.][MISSING:m][OCR:a -> GT:i]c[OCR:l -> GT:h]ae[OCR:( -> GT:l]foo[OCR:l -> GT:t][OCR:l -> GT:h][OCR:o -> GT:a][OCR:a -> GT:s]pu[OCR:x -> GT:t]dow[EXTRA OCR:s][EXTRA OCR:u][OCR:0 -> GT:n][OCR:l -> GT:a][OCR:v -> GT:r]e[OCR:j -> GT:s]olu[MISSING:t][OCR:h -> GT:i]o[OCR:t -> GT:n]o[EXTRA OCR:l][OCR:l -> GT:n][OCR:l -> GT:t][OCR:s -> GT:h][OCR:_ -> GT:e]su[MISSING:b][OCR:q -> GT:j]e[OCR:a -> GT:c][OCR:k -> GT:t][OCR:o -> GT:a][OCR:4 -> GT:n][OCR:0 -> GT:d][OCR:w -> GT:h][OCR:q -> GT:e][OCR:_ -> GT:i][OCR:8 -> GT:s][OCR:0 -> GT:t][OCR:q -> GT:o][OCR:q -> GT:b][OCR:_ -> GT:e]bac[OCR:l -> GT:k]e[OCR:a -> GT:d][OCR:6 -> GT:b][OCR:r -> GT:y][OCR:a -> GT:m]r.w[MISSING:i][OCR:: -> GT:l][OCR:u -> GT:l]g[MISSING:r][MISSING:i][OCR:- -> GT:f]f[OCR:k -> GT:i][OCR:l -> GT:t][OCR:s -> GT:h][OCR:1 -> GT:s][OCR:4 -> GT:,][OCR:7 -> GT:m]p[OCR:p -> GT:f]o[OCR:m -> GT:r]ma[OCR:u -> GT:n]c[OCR:u -> GT:h][OCR:o -> GT:e][OCR:a -> GT:s][OCR:l -> GT:t]e[OCR:s -> GT:r]ex[OCR:e -> GT:c][OCR:l -> GT:h]a[OCR:u -> GT:n][OCR:q -> GT:g]e[OCR:_ -> GT:.]

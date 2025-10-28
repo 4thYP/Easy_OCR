@@ -1,0 +1,5 @@
+OCR ACCURACY ANALYSIS REPORT (BERTScore, EasyOCR)
+============================================================
+Page 1: P=-78.85% (Err=178.85%)  R=-18.80% (Err=118.80%)  F1=-50.61% (Err=150.61%)  (hyp_chars=249, ref_chars=255)
+
+Overall: P=-78.85% (Err=178.85%)  R=-18.80% (Err=118.80%)  F1=-50.61% (Err=150.61%)  (hyp_chars=249, ref_chars=255)

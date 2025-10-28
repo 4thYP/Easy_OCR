@@ -1,0 +1,5 @@
+OCR ACCURACY ANALYSIS REPORT (ROUGE, EasyOCR)
+============================================================
+Page 1: R1=8.00% (Err=92.00%)  R2=0.00% (Err=100.00%)  RL_R=6.00% (Err=94.00%)  RL_P=5.66%  RL_F1=5.83%  (hyp=53, ref=50)
+
+Overall: R1=8.00% (Err=92.00%)  R2=0.00% (Err=100.00%)  RL_R=6.00% (Err=94.00%)  RL_P=5.66%  RL_F1=5.83%  (hyp=53, ref=50)

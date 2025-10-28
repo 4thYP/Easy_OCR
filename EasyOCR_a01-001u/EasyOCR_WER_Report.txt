@@ -1,0 +1,11 @@
+OCR ACCURACY ANALYSIS REPORT (WER, EasyOCR)
+============================================================
+Page 1: WER = 104.00%  (S=49, D=0, I=3, N=50)
+
+Overall: WER = 104.00%  (S=49, D=0, I=3, N=50)
+
+DETAILED WORD-LEVEL DIFFERENCES
+============================================================
+
+--- Page 1 Differences ---
+[OCR: move -> GT: a] [OCR: j0 -> GT: move] [OCR: 3o8 -> GT: to] [OCR: ar -> GT: stop] [OCR: _ -> GT: mr] [OCR: gibbel -> GT: gaitskell] [OCR: fven -> GT: from] [OCR: wowinal -> GT: nominating] [OCR: n3 -> GT: any] [OCR: a -> GT: more] [OCR: lone_ -> GT: labour] [OCR: labaur -> GT: life] [OCR: lfe_ -> GT: peers] [OCR: per -> GT: is] [OCR: lo -> GT: to] [OCR: o_ -> GT: be] [OCR: luadr_ -> GT: made] at [EXTRA OCR: meohia] [EXTRA OCR: ak] [EXTRA OCR: labcuv] [OCR: m -> GT: a] [OCR: donorrol -> GT: meeting] [OCR: ar -> GT: of] [OCR: aclae -> GT: labour] [OCR: fool -> GT: m] [OCR: loa -> GT: ps] [OCR: pux -> GT: tomorrow] [OCR: dowsu -> GT: mr] [OCR: 0l -> GT: michael] [OCR: vejoluhot -> GT: foot] [OCR: ol -> GT: has] [OCR: lls -> GT: put] [OCR: _ -> GT: down] [OCR: suqeak -> GT: a] [OCR: o40 -> GT: resolution] [OCR: wq -> GT: on] [OCR: _ -> GT: the] [OCR: 80 -> GT: subject] [OCR: qq -> GT: and] [OCR: _ -> GT: he] [OCR: baclea -> GT: is] [OCR: 6r -> GT: to] [OCR: ar -> GT: be] [OCR: w -> GT: backed] [OCR: u -> GT: by] [OCR: g -> GT: mr] [OCR: fkls -> GT: will] [OCR: 1 -> GT: griffiths] [OCR: 47p -> GT: mp] [OCR: pom -> GT: for] [OCR: maucuoales -> GT: manchester] [OCR: exelauqe_ -> GT: exchange]
