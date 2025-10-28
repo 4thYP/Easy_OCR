@@ -1,0 +1,40 @@
+EASYOCR COMPLETE ACCURACY ANALYSIS REPORT
+================================================================================
+
+CHARACTER-LEVEL METRICS:
+--------------------------------------------------
+Page 1: Error Rate = 97.14%, Accuracy = 2.86%
+
+WORD-LEVEL METRICS (WER):
+--------------------------------------------------
+Page 1: WER = 100.00%, Errors: 68 (S:65, D:3, I:0)
+
+BLEU SCORES:
+--------------------------------------------------
+Page 1: BLEU = 0.35%
+
+ROUGE SCORES:
+--------------------------------------------------
+Page 1: ROUGE-1 = 7.52%, ROUGE-2 = 0.00%, ROUGE-L = 7.52%
+
+BERTSCORES:
+--------------------------------------------------
+Page 1: BERTScore = 73.82%
+
+OVERALL RESULTS:
+==================================================
+Character Error Rate = 97.14%Word Error Rate (WER) = 100.00%
+BLEU Score = 0.35%
+ROUGE-1 = 7.52%
+ROUGE-2 = 0.00%
+ROUGE-L = 7.52%
+BERTScore = 73.82%
+Total Errors: 68 words (S:65, D:3, I:0)Total words in reference: 68
+Matched Characters: 10 / 391
+
+WORD-LEVEL DIFFERENCES
+================================================================================
+
+--- Page 1 Differences ---
+WER: 100.00%, Errors: 68
+[SUB: sir roys united federal party is boycotting the london talks on the protectorate -> luu: sal teelesa ( fsld lo] s [SUB: future. said mr. nkumbula -> ros 3 boycalt;-4 jr _ leudcu lalkl 0u lle _ yvole_clorale. fuhiur_ caiicl mr . nubulo] last [SUB: night: we want to discuss what to -> uiol 4 we_ ux l0 aia cusa w lal 10 4 deuucma halcuo.] do [SUB: if the british government gives in to sir roy and the talks fall through. there are bound to be demonstrations. yesterday sir roys chief aide, mr. julius greenfield, telephoned his chief a report on his talks with mr. macmillan at chequers. -> lue _ rli,l yeoleaacr si qon 5 clia aice 1 h juli guee-aielal telq_plcuec hio alie i 0 o lis lalk wilu ar macuuua 0s cueaor rpet]
